@@ -230,30 +230,6 @@ Express automatically serves the production React build from `client/dist`.
 
 ---
 
-# 📸 Screenshots
-
-> Add screenshots here
-
-* Home Page
-* Resume Upload
-* Interview Screen
-* Final Evaluation
-* Dashboard
-
----
-
-# 🎥 Demo
-
-Demo Video
-
-> Add YouTube or Drive link
-
-Live Demo
-
-> Add deployment link
-
----
-
 # 🔮 Future Improvements
 
 * Voice-based interviews
